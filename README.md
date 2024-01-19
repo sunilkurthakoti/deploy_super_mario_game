@@ -12,7 +12,6 @@
 
 ### Creating an EC2 Instance: <br/>
 
-* An EKS was set up for hosting the game. <br/>
 
 ![Screenshot (237)](https://github.com/sunilkurthakoti/deploy_super_mario_game/assets/131526336/783d3bb2-8b6f-4e3d-9cc4-d01ef69fbb14)
 
@@ -22,7 +21,7 @@
 * Docker, Terraform, Kubectl, and Awscli were installed to facilitate the deployment. <br/>
 
 
-### c
+### An EKS was set up for hosting the game.
 
 ![Screenshot (238)](https://github.com/sunilkurthakoti/deploy_super_mario_game/assets/131526336/b74d120f-6a22-4a92-bca1-97c248d4b8cb)
 
